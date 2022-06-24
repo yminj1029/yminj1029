@@ -9,6 +9,7 @@
 **연락처**
 
 ✉️ minjiyun204@gmail.com
+📞 010-3432-1888
 
 ## Skill
 <img width="800" alt="myskill" src="https://user-images.githubusercontent.com/68888349/175490683-f2484b45-ac97-4aa4-b9e9-7dd93a5db227.png">
