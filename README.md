@@ -13,7 +13,7 @@
 ## Skill
 <img width="800" alt="myskill" src="https://user-images.githubusercontent.com/68888349/175490683-f2484b45-ac97-4aa4-b9e9-7dd93a5db227.png">
 
- <img width="657" alt="skill" src="https://user-images.githubusercontent.com/68888349/175490325-d4ed10bb-b1b4-4eb1-b982-81800a28725a.png">
+&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;<img width="657" alt="skill" src="https://user-images.githubusercontent.com/68888349/175490325-d4ed10bb-b1b4-4eb1-b982-81800a28725a.png">
 
 
 ## 경력사항
