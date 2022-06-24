@@ -9,6 +9,9 @@
 <img width="24" src="https://user-images.githubusercontent.com/68888349/175493888-4070ffe1-b2dd-4385-9b4a-dd2166591b0b.png">&nbsp;&nbsp;React&nbsp;&nbsp;&nbsp;&nbsp;
 <img width="24" src="https://user-images.githubusercontent.com/68888349/175493799-5be20063-209c-4b9b-a09a-64d619a2ae63.png">&nbsp;&nbsp; Django<br/>
 
+**깃허브**
+
+👨‍💻 Github https://github.com/yminj1029
 
 **연락처**
 
@@ -16,12 +19,22 @@
 <br/> 
 📞 010-3432-1888
 
+**강점**
+1. 새로운 기술을 빠르게 배웁니다.
+2. 도식화하여 정리하는 것을 잘 합니다. 
 <br/>
 
 ## Skill
-<img width="800" alt="myskill" src="https://user-images.githubusercontent.com/68888349/175490683-f2484b45-ac97-4aa4-b9e9-7dd93a5db227.png">
 
-&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;<img width="657" alt="skill" src="https://user-images.githubusercontent.com/68888349/175490325-d4ed10bb-b1b4-4eb1-b982-81800a28725a.png">
+|Skill|Detail|
+|:---:|:---:|
+|Front-End|JavaScript(3) TypeScript(3) HTMLCSS(3) JSP(3) Webpack(2)|
+|Front-End 프레임워크|Vue.js (3) React (2)|
+|Back-End|Python(2) Java(2)|
+|Back-End 프레임워크|Django(2) Flask (2) Spring(1)|
+|Data|Oracle(2) MongoDB(1)|
+
+&nbsp;<img width="657" alt="skill" src="https://user-images.githubusercontent.com/68888349/175490325-d4ed10bb-b1b4-4eb1-b982-81800a28725a.png">
 
 <br/>
 
