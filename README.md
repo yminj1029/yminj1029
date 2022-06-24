@@ -14,11 +14,14 @@
 <br/> 
 📞 010-3432-1888
 
+<br/>
+
 ## Skill
 <img width="800" alt="myskill" src="https://user-images.githubusercontent.com/68888349/175490683-f2484b45-ac97-4aa4-b9e9-7dd93a5db227.png">
 
 &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;<img width="657" alt="skill" src="https://user-images.githubusercontent.com/68888349/175490325-d4ed10bb-b1b4-4eb1-b982-81800a28725a.png">
 
+<br/>
 
 ## 경력사항
 
@@ -55,6 +58,8 @@
     2. 개인 정보 상세 입력, OTP 인증, 1원 인증을  axios를 사용하여 API 연동했습니다.
     3. KYC 인증 과정에서 1원 인증을 JSP로 기능 구현했습니다.
 - 사용한 기술 스택 : Vue.js, JSP
+
+<br/>
 
 ## 프로젝트
 
@@ -93,6 +98,7 @@
 - 팀 프로젝트, 총 4명 참여
 - 사용한 기술 스택 : Oracle, Java
 
+<br/>
 
 ## 자격증 & 어학
 
@@ -100,6 +106,7 @@
 
 **영어 TOEIC 825점 (취득일 : 2020. 05)**
 
+<br/>
 
 ## 학력
 
