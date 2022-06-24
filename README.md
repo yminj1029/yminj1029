@@ -3,7 +3,9 @@
 
 **기술 요약**
 
-🔨 Vue.js React Django
+<img width="24" src="https://user-images.githubusercontent.com/68888349/175493858-75c710f2-85b5-4170-81ea-f3f0562dd5c4.png">&nbsp;&nbsp;Vue.js&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="24" src="https://user-images.githubusercontent.com/68888349/175493888-4070ffe1-b2dd-4385-9b4a-dd2166591b0b.png">&nbsp;&nbsp;React&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="24" src="https://user-images.githubusercontent.com/68888349/175493799-5be20063-209c-4b9b-a09a-64d619a2ae63.png">&nbsp;&nbsp; Django<br/>
 
 
 **연락처**
