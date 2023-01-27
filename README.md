@@ -7,7 +7,6 @@
 
 <img width="24" src="https://user-images.githubusercontent.com/68888349/175493858-75c710f2-85b5-4170-81ea-f3f0562dd5c4.png">&nbsp;&nbsp;Vue.js&nbsp;&nbsp;&nbsp;&nbsp;
 <img width="24" src="https://user-images.githubusercontent.com/68888349/175493888-4070ffe1-b2dd-4385-9b4a-dd2166591b0b.png">&nbsp;&nbsp;React&nbsp;&nbsp;&nbsp;&nbsp;
-<img width="24" src="https://user-images.githubusercontent.com/68888349/175493799-5be20063-209c-4b9b-a09a-64d619a2ae63.png">&nbsp;&nbsp; Django<br/>
 
 **깃허브**
 
@@ -20,8 +19,9 @@
 📞 010-3432-1888
 
 **강점**
-1. 새로운 기술을 빠르게 배웁니다.
-2. 도식화하여 정리하는 것을 잘 합니다. 
+1. 업무를 도식화하는 것을 잘하며 프로세스에 대한이해가 빠른편입니다.
+2. 경청하려고 노력합니다. 때때로 동료들에게 공감 능력이 좋다고 듣습니다.
+3. 글자 그대로 글자를 좋아합니다. 코드도, 문서도 꼼꼼히 볼 수 있습니다.
 <br/>
 
 ## Skill
@@ -40,9 +40,11 @@
 
 ## 경력사항
 
-### Delio **프론트엔드 팀** (2021.09~현재)
+### 어노테이션 **프론트엔드 팀** (2022.11~현재)
+
+### Delio **프론트엔드 팀** (2021.09~2022.10)
  
- 1. ** NFT 지갑 개발(2022.8~)**
+ 1. **NFT 지갑 개발(2022.8~)**
 
 - 내용 :
     1. 고객이 소유한 NFT를 한 번에 보여주는 페이지입니다. OpenSea, 01etc에서 구입한 이더리움 기반 NFT를 대상으로 합니다. 
